@@ -51,7 +51,7 @@
     "ethereumjs-util": "^5.2.0",
     "ethjs-abi": "^0.2.1",
     "ganache-cli": "6.1.0",
-    "solidity-coverage": "^0.5.4",
+    "solidity-coverage": "^0.7.9",
     "solium": "^1.1.7",
     "truffle": "^4.1.11",
     "truffle-hdwallet-provider": "0.0.5",
